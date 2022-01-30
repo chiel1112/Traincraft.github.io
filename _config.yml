@@ -23,10 +23,10 @@ email: your-email@domain.com
 description: >- # this means to ignore newlines until "baseurl:"
   The home page for Traincraft and it's community
 baseurl: "/" # the subpath of your site, e.g. /blog in actuality needs to be "."
-url: "https://eternalblueflame.github.io/Traincraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com//
+url: "https://chiel1112.github.io/Traincraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com//
 twitter_username: TraincraftOFL
-github_username:  EternalBlueFlame
-gitlab_username:  EternalBlueFlame
+github_username:  chiel1112
+gitlab_username:  chiel1112
 
 # Build settings
 theme: jekyll-theme-minimal
